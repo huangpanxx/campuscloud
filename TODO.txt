@@ -1,0 +1,24 @@
+1.移植到云平台(DB,FileSystem,hadoop)[郭健强]
+	1.搭建Hadoop平台
+	2.提供新的DbProvider,提供Hadoop支持的数据库(13章 Database Connection)
+	3.使用Hadoop的DFS作为eyeos的文件系统(19章 FileSytem Interface)
+
+2.qooxdoo开发应用[樊苑苑]
+	学习:
+		1.Qooxdoo Beginner's Guide
+		2.Qooxdoo API
+	功能:
+		1.Office[Converter 支持 doc](16章 Conversion of office documents)*
+		2.同步界面*
+		3.手机端Web页面[可以考虑用客户端]*
+		4.学生功能(课表...)
+
+3.Sync接口[黄攀]
+	1.同步外部设备[18章 NetSync]
+
+4.了解认证体系,集成外部应用[黄攀]
+	1.安全体系(11章 User Manager,14章 Security Manager,17章 Dbus)
+	2.外部应用[集成与存储](参考WebQQ OpenApi)
+
+5.移动设备客户端[三个人一起]
+
